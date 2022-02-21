@@ -1,7 +1,6 @@
 package com.monthy.hall;
 
 import com.monthy.hall.implementations.BoxSelection;
-import com.monthy.hall.interfaces.IBoxSelection;
 
 import java.util.Random;
 import java.util.Scanner;
