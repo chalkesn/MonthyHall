@@ -1,9 +1,7 @@
 package com.monthy.hall.tests;
 
-import com.monthy.hall.MonthyHall;
 import com.monthy.hall.implementations.BoxSelection;
 import org.junit.Test;
-import org.mockito.MockedStatic;
 import org.mockito.Mockito;
 import static org.mockito.Mockito.*;
 
